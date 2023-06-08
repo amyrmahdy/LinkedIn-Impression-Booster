@@ -44,9 +44,9 @@ Contributions are welcome! If you find a bug or want to suggest an improvement, 
 <br >
 <br >
 
-**Author: amyrmahdy**
+Author: **amyrmahdy**
 
-**Date: 8 March 2023**
+Date: **8 March 2023**
 
 
 
